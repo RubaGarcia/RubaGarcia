@@ -3,7 +3,7 @@
 <!--
 **RubaGarcia/RubaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 * 🔭 I’m currently working on personal and academic proyects.
 * 📫 How to reach me: rgm177@alumnos.unican.es / ruga0711@gmail.com
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 * Assembly
 * Lua
 
--->
+
