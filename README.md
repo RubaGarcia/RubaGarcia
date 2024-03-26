@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 * 🔭 I’m currently working on personal and academic proyects.
-* 📫 How to reach me: rgm177@alumnos.unican.es / ruga0711@gmail.com
+* 📫 How to reach me: rgm177@alumnos.unican.es / rubengarciam.work@gmail.com
 
 ## Programming languages
 
