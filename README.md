@@ -11,11 +11,10 @@ Here are some ideas to get you started:-->
 ## Programming languages
 
 * Python
+* TypeScript
+* React
 * Java 
 * C
-* C++
 * SQL
-* Assembly
-* Lua
 
 
