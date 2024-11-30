@@ -1,5 +1,5 @@
 ### Hi there, I'm Rubén García 👋
-**Undergraduate BSc in Computer Engineering Student** 
+**Graduate BSc in Computer Engineering Student** 
 <!--
 **RubaGarcia/RubaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
